@@ -233,3 +233,8 @@ If you are interested in citing  *Simple**FOC**library* or some other component 
 }
 
 ```
+
+https://github.com/arduino/package-index-py/edit/main/librarylist.yaml
+https://github.com/arduino/package-index-py/edit/main/librarylist.yaml
+https://github.com/arduino/package-index-py/edit/main/librarylist.yaml
+https://github.com/arduino/package-index-py/edit/main/librarylist.yaml
